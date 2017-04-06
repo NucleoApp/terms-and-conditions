@@ -12,7 +12,7 @@ We may employ the use of third party services for the purpose of facilitating pa
 We reserve the right to refuse or cancel your order if fraud or an unauthorized or illegal transaction is suspected.
 
 ## Refund Policy
-We issue refunds within 30 days of the original purchase of Nucleo. Before a refund will be granted, you must allow us to try and help solve any problem you have by opening a support ticket. NOTE: refunds will not be granted if you simply decide not to use Nucleo. We stand behind our products and will assist you in solving any problem you have, but we also expect you to adequately understand what you are purchasing and why.
+We issue refunds within 30 days of the original purchase of Nucleo. Before a refund will be granted, you must allow us to try and help solve any problem you have by opening a support ticket at support@nucleoapp.com. NOTE: refunds will not be granted if you simply decide not to use Nucleo. We stand behind our products and will assist you in solving any problem you have, but we also expect you to adequately understand what you are purchasing and why.
 
 ## Accounts
 When you create an account with us, you guarantee that you are above the age of 18 and that the information you provide us is accurate, complete, and current at all times.
@@ -31,5 +31,7 @@ All of our products are provided 'as is' without warranty of any kind. AmberCrea
 
 ## Reserved Rights
 We reserve rights to change the price of Nucleo without prior notice and at our sole discretion. We reserve the rights to make changes to these Terms and Conditions without any prior notice at our sole discretion. Changes to the price and/or these Terms are not retroactive.
+
+Your can [download our Terms and Conditions](https://github.com/NucleoApp/terms-and-conditions) on Github.
 
 If you’re still unclear about our terms, please contact us at info@nucleoapp.com.
