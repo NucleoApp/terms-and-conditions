@@ -2,7 +2,7 @@
 
 Github repo: https://github.com/NucleoApp/terms-and-conditions
 
-This page explains the terms by which you may use Nucleo icons set and web application (hereinafter “Nucleo”), a product of Amber Creative Lab Ltd (hereinafter "AmberCreative", “us”, “we”, or “our”). By accessing or using Nucleo, you signify that you have read, understood, and agreed to be bound by this Terms and Conditions.
+This page explains the terms by which you may use Nucleo icons and applications (hereinafter “Nucleo”), a product of Amber Creative Lab Ltd (hereinafter "AmberCreative", “us”, “we”, or “our”). By accessing or using Nucleo, you signify that you have read, understood, and agreed to be bound by this Terms and Conditions.
 
 ## Purchases
 If you wish to purchase Nucleo, you may be asked to supply certain information relevant to your purchase including, without limitation, your billing address, your credit card number and the expiration date of your credit card.
